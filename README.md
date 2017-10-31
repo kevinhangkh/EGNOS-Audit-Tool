@@ -2,6 +2,7 @@
 EGNOS automated audit tool developped in JAVA
 
 Tool designed and implemented during Thales Alenia Space internship 2016-2017 with IDE NetBeans.
+Libraries used are located in dist/lib/
 
 Automated tool recreating EGNOS command packets and sending them to the corresponding assets IP addresses.
 
